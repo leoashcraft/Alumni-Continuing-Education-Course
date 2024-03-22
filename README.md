@@ -11,7 +11,7 @@ These sections do build on each other so please try and keep up with the previou
 ### Week By Week Breakdown:
 [**Week 1:** Course Introduction & TDD - 3/7/23](https://github.com/leoashcraft/Alumni-Continuing-Education-Course/tree/main/Week%201%20-%20TDD)
 
-**Week 2:** SOLID Design Principles (Part 1) - 3/14/23
+[**Week 2:** SOLID Design Principles (Part 1) - 3/14/23](https://github.com/leoashcraft/Alumni-Continuing-Education-Course/tree/main/Week%202%20-%20SOLID)
 
 **Week 3:** SOLID Design Principles (Part 2) - 3/21/23
 
