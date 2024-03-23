@@ -1,0 +1,3 @@
+interface ILibraryViewer {
+    browseLibrary(): string[];
+}
